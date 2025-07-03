@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Front-end and Back-end Technologies.<br>👯 I’m looking to collaborate on Front-end Stack.<br>📫 How to reach me at adityarajbenn@gmail.com.<br>⚡ Interests in Listening and Playing music, Playing Badminton, and Watching Movies.
+🌱 I’m currently Working as Senior Test Engineer.<br>👯 I’m looking SDET .<br>📫 How to reach me at manusira97@gmail.com.<br>⚡ Interests in Listening and Playing music, Playing Badminton, and Watching Movies.
 
 ## 🌐 Socials:
 
